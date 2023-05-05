@@ -1,0 +1,26 @@
+body {
+    width: 100%;
+    background-color: rgb(93, 129, 129);
+}
+.data {
+    text-align: center;
+    font-style: bold;
+    margin-bottom: 50px;
+}
+.menssagem {
+    margin-top: 30px;
+    text-align: justify;
+}
+.despedida {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.caixa{
+    width: 900px;
+    background: #a2b5db;
+    border: 1px solid;
+    margin: 200px 200px;
+    padding: 5px;
+    border-style: outset;
+    border-radius: 10px;
+}
